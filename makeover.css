@@ -1,0 +1,8 @@
+.arrow {
+  width: 0px;
+  height: 0px;
+  background-color: black;
+  border-top: 60px solid black;
+  border-right: 60px solid transparent;
+  border-left: 60px solid transparent;
+}
